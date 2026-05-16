@@ -1,16 +1,15 @@
 ## Hi there 👋
-
-<!--
-**amarmoteleb123/amarmoteleb123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Data Science and AI student with knowledge in Python, SQL, Machine Learning, Data Analysis, and Data Visualization. Skilled in object-oriented programming using Java and experienced in data mining techniques. Passionate about solving real-world problems using data-driven approaches and continuously improving technical and analytical skills.
+## Programming languages 
+- python
+- SQL
+- JAVA
+- R
+## Libraries
+- Numpy
+- Panadas
+- Scikit-Learn
+- Matplotlib
+## Skills 
+- Machine Learning
+- DataScience
